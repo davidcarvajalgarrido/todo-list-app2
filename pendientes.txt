@@ -1,1 +1,2 @@
 - Borrar lo que no debe ser borrado
+- Crear aquello que nunca existió
